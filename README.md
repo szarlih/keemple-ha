@@ -1,2 +1,2 @@
 # keemple-ha
-Home Assistant integrator with Keemple smart home system V1
+Home Assistant integration with Keemple (Oblo) smart home system V1
